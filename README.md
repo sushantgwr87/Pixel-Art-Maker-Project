@@ -1,10 +1,17 @@
-# Pixel Art Maker Project 
-       Working version of a simple Pixel Art Maker.
+# Pixel Art maker
 
-# Contains 3 files
-       index.html
-       style.css
-       design.js
+Basic Pixel Art maker using CSS and JavaScript.
+
+## Files
+
+#### Html page
+index.html
+
+#### Styling
+style.css
+
+#### Algorithm
+design.js
 
 # Motive behind creation
-       This was a project based from online Learning platform.
+This was a project based from online Learning platform.
