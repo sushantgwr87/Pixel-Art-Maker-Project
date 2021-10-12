@@ -17,4 +17,4 @@ design.js
 This was a project based from online Learning platform.
 Give a Star.
 
-Thanks for aprreciation.
+Thanks for appreciation.
